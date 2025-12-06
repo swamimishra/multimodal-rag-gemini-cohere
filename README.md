@@ -2,6 +2,11 @@
 
 A powerful **Multimodal Retrieval-Augmented Generation (RAG)** application that allows you to chat with your PDF documents. Unlike standard RAG, this app can "see" and retrieve visual information (charts, graphs, diagrams) along with text.
 
+**Screenshots**
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/39fd9582-0ee4-4476-8831-1fb53d0bb6ad" />
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/ba797a4c-95f3-4cde-aa7e-0450b1351940" />
+
 **Powered by:**
 *   **Gemini 2.5 Flash** (Google) for multimodal reasoning.
 *   **Cohere Embed v3/v4** for semantic search (Text + Image embeddings).
@@ -87,3 +92,4 @@ set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
 
 ## 📜 License
 Apache 2.0
+
